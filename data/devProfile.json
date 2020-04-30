@@ -1,4 +1,3 @@
-
 {
 	"info": {
 		"name": "John Doe",
@@ -6,9 +5,11 @@
 		"uname": "John Doe",
 		"university": "University of North Alabama", 
 		"github": "https://github.com/DelilahHowell",
+		"dev-10": "https://delilahhowell.github.io/Dev-10/",
 		"codepen": "https://codepen.io/Delilah_howell",
+		"dev09": "https://codepen.io/Delilah_howell/pen/qBOEeRX",
 		"codeacademy": "https://www.codecademy.com/profiles/Delilah.Howell",
-		"bio":"John Nommensen Duchac, known professionally as John Doe,is an American singer, songwriter, actor, poet, guitarist andbass player. Doe co-founded LA punk band X, of which he is stillan active member. His musical performances and compositions spanrock, punk, country and folk music genres. Wikipedia"
+		"bio":"John Nommensen Duchac, known professionally as John Doe,is an American singer, songwriter, actor, poet, guitarist andbass player. Doe co-founded LA punk band X, of which he is still an active member."
 	}
 
 }
